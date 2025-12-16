@@ -1,3 +1,9 @@
+#Node modules packages
 node_modules/
 
+#Environment
 .env
+
+# Log files
+logs/
+*.log
